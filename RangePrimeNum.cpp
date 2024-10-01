@@ -1,4 +1,3 @@
-```
 // Program for Prime Number in Range
 #include <iostream>
 using namespace std;
@@ -92,4 +91,3 @@ int main()
 
     return 0;
 }
-```
